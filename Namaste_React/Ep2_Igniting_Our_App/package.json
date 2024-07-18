@@ -1,0 +1,16 @@
+{
+  "name": "ep2_igniting_our_app",
+  "version": "1.0.0",
+  "description": "Igniting our app by akshay saini",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "Divue",
+  "license": "ISC"
+}
