@@ -60,7 +60,7 @@ A: `npx` stands for `Node Package eXecute`. It is simply an `npm` package runner
 
 ## Q: What is difference between `dependencies vs devDependencies`?
 
-A: `"dependencies"` : Packages required by your application in production. `"devDependencies"` : Packages that are only needed for local development and testing.
+A: `"dependencies"` : Packages required by your application in production. `"devDependencies"` (-D) : Packages that are only needed for local development and testing.
 
 ## Q: What is Tree Shaking? in Parcel?
 

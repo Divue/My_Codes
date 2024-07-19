@@ -2,7 +2,6 @@
   "name": "ep2_igniting_our_app",
   "version": "1.0.0",
   "description": "Igniting our app by akshay saini",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -12,5 +11,16 @@
     "react"
   ],
   "author": "Divue",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
 }
