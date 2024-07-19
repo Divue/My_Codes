@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><title>CatPhotoApp</title></head>
+  <body>
+    <main>
+      <h1>CatPhotoApp</h1>
+      <section>
+        <h2>Cat Photos</h2>
+        <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
+        <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+      </section>
+      <section>
+        <h2>Cat Lists</h2>
+        <h3>Things cats love:</h3>
+        <ul>
+          <li>Cat nip</li>
+          <li>Laser Pointers</li>
+          <li>Lasagna</li>
+        </ul>
+        <figure>
+          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+          <figcaption>Cats <em>love</em> Lasagna.</figcaption>  
+        </figure>
+        <h3>Top 3 things cats hate:</h3>
+        <ol>
+          <li>Lea Treatment</li>
+          <li>Thunder</li>
+          <li>Other Cats</li>
+        </ol>
+        <figure>
+          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
+          <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
+        </figure>
+      </section>
+      
+      <!-- Form Writting -->
+      <section>
+        <h2>Cat Form</h2>
+        <form action="https://freecatphotoapp.com/submit-cat-photo">
+          <fieldset>
+            <legend>Is your cat an indoor or outdoor cat?</legend>
+            <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> Indoor</label>
+            <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+          </fieldset>
+          <fieldset>
+            <legend>What's your cat's personality?</legend>
+            <input id="loving" type="checkbox" name="personality" value="loving"><label for="loving">Loving</label>
+            <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
+            <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
+          </fieldset>
+
+          <input type="text" name="catphotour1" placeholder="cat photo URL" required>
+          <button type="submit">Submit</button>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>No Copyright - <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp.org</a></p>
+      <p>Complain to maker - 
+        <a href="https://www.instagram.com/" target="_blank"> <img src="data:image/jpeg;base64,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" alt="Instagram" width="50px"></a></p>
+    </footer>
+  </body>
+</html>

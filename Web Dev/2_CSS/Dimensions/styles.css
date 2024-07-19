@@ -1,0 +1,15 @@
+.box{
+    max-height: 100px;  /* gets a scroller when content is more than max height*/
+    border:1px solid black;
+    overflow: scroll;
+}
+.mydiv{
+    margin: 10px;
+    min-height: 100px;   /* height increasses with increase in content*/
+    border:1px solid black;  
+}  
+#divi{
+    height: 50px;
+    border: 1px solid black;
+     
+}

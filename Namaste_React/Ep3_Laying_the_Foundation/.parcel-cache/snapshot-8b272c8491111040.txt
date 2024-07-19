@@ -1,0 +1,11 @@
+10
+79/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation/Theory.md1693574824000000000 0
+81/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation/Code/App.js1721398904546903127 0
+84/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation/Code/README.md1693574824000000000 0
+85/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation/Code/index.html1693574824000000000 0
+86/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation/Code/profile.png1693574824000000000 0
+74/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation/Code1721398846116122669 1
+84/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation/Code/index.css1693574824000000000 0
+83/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation/Assignment.md1693574824000000000 0
+83/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation/Code/icon.png1693574824000000000 0
+69/home/tekiru/Desktop/My_Codes/Namaste_React/Ep3_Laying_the_Foundation1721399070482907082 1

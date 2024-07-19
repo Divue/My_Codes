@@ -1,0 +1,5 @@
+{
+    "diffEditor.renderMarginRevertIcon": true,
+    "terminal.integrated.customGlyphs": true,
+    "editor.glyphMargin": true
+}
